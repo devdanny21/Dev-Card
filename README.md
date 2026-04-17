@@ -1,4 +1,4 @@
-# 💻 Dev Card – Danny Schoenknecht
+# 💻 Dev Card – Danny S.
 
 A simple personal developer card built with HTML & CSS.
 
