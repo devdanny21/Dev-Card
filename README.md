@@ -28,9 +28,6 @@ It is part of my learning journey in web development.
 
 ---
 
-## 📸 Preview
-(Add a screenshot of your dev card here)
-
 ---
 
 ## 🌐 Links
