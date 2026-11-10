@@ -9,7 +9,7 @@ This is a personal **developer card / portfolio preview** designed to showcase m
 
 It is part of my learning journey in web development.
 
----
+----
 
 ## ✨ Features
 - 🎨 Glassmorphism UI design
